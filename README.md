@@ -1,4 +1,4 @@
-# โต้ง (Sornchai)
+# โอ (Sornchai)
 
 **QA Automation Engineer** · Playwright · TypeScript · Jira Enthusiast
 
